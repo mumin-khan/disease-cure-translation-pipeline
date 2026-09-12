@@ -1,0 +1,6 @@
+# This public repository intentionally contains only the reusable code and documentation.
+*
+!.gitignore
+!README.md
+!transcribe.py
+!convert.py
